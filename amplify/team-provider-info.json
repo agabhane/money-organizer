@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-moneyorganizer-staging-143943-authRole",
+      "UnauthRoleArn": "arn:aws:iam::179153915271:role/amplify-moneyorganizer-staging-143943-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::179153915271:role/amplify-moneyorganizer-staging-143943-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-moneyorganizer-staging-143943-deployment",
+      "UnauthRoleName": "amplify-moneyorganizer-staging-143943-unauthRole",
+      "StackName": "amplify-moneyorganizer-staging-143943",
+      "StackId": "arn:aws:cloudformation:ap-south-1:179153915271:stack/amplify-moneyorganizer-staging-143943/b92386e0-40cd-11ed-a854-029e46d1421c",
+      "AmplifyAppId": "d3p0r1fo28fnjq"
+    },
+    "categories": {
+      "auth": {
+        "MoneyOrganizer": {}
+      }
+    }
+  }
+}
